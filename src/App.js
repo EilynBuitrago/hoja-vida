@@ -30,7 +30,7 @@ class App extends Component {
         {degree: 'Ingeniería en Sistemas y Telecomunicaciones', institution: 'UNIVERISDAD DE MANIZALES', startDate: 'Enero 2020', endDate: 'Presente', description: 'Desde el 2020 empece a estudiar el pregrado de Ingenieria en sistemas y Telecomunicaciones en la Universidad de Manizales, en la actualidad me encuentro cursando el 5 semestre.'},
       ],
       certificate: [
-        {name: 'FrontEnd Developer', institution: 'Platzi', date: 'Jan 2015', description: 'Aenean commodo ligula eget dolor. Aenean massa.' },
+        {name: 'Ingles', institution: 'Colombo', startDate: 'Enero 2019', endDate: 'Diciembre 2019', description: 'Estudie Ingles durante un año, en el cual abquiri un nivel de B2' },
         {name: 'Backend Developer', institution: 'Platzi', date: 'Jan 2016', description: 'Aenean commodo ligula eget dolor. Aenean massa.' }
       ],
       skills: [
