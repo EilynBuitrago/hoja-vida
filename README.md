@@ -7,5 +7,6 @@ HTML es un lenguaje de marcación que sirve para definir el contenido de las pá
 ## JAVASCRIPT
 JavaScript es el único lenguaje de programación que funciona en los navegadores de forma nativa (lenguaje interpretado sin necesidad de compilación). Por tanto se utiliza como complemento de HTML y CSS para crear páginas webs.
 
-https://blog.jscrambler.com/content/images/2018/06/little-known-things-react.png
+![image](https://user-images.githubusercontent.com/80140325/170793086-95739660-d86e-45bc-95d5-c2afc684c46f.png)
+
 
