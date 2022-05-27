@@ -38,7 +38,10 @@ class App extends Component {
         {name: 'JavaScript', percentage: '75%'},
         {name: 'PHP', percentage: '50%'},
         {name: 'C#', percentage: '40%'},
-        {name: 'Java', percentage: '80%'}
+        {name: 'Java', percentage: '80%'},
+        {name: 'Phyton', percentage: '95%'},
+        {name: 'Github', percentage: '95%'},
+        {name: 'React', percentage: '50%'},
         
       ]
     };
