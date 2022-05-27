@@ -28,6 +28,8 @@ La metodología BEM divide la interfaz de usuario en bloques independientes para
 - Video Curso Profesional de React (firebase, hooks, redux, MaterialUI): https://youtu.be/5DAEdXKp7QA
 - Aprende a utilizar la metodologia BEN: https://youtu.be/6LUz0MnNCiA?t=6
 
+# Dando como resultado La Hoja de Vida
+
 ![image](https://user-images.githubusercontent.com/80140325/170794539-c0128dd5-7218-42ef-b279-65c95b43e9b7.png)
 
 
