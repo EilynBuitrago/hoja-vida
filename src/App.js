@@ -12,7 +12,9 @@ class App extends Component {
       avatar: 'https://scontent.fbog11-1.fna.fbcdn.net/v/t1.6435-9/96940421_966925060410302_573835801436094464_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=cDfRb1SLMXIAX-Bmlln&_nc_oc=AQkjNqjFuJ9ZEwK6rOmNWxk4Y09lWrCSXitAVpQVYmlCkpHjPp6LojEwYc5KED3IQC0&_nc_ht=scontent.fbog11-1.fna&oh=00_AT8DUD8pMCMRCTxBjY74APHardTZyD8U0AyljP1t_TwkCw&oe=62B553F2',
       name: 'Eilyn Dayhanna Buitrago Duque',
       profession: 'Ingeniería en Sistemas Y Telecomunicaciones',
-      bio: '❤ backend developer ',
+      bio: '❤ backend developer - Me considero una presona que tiene un excelente trabajo en equipo, es puntual, es honesta, genero confianza, tengo sentido de responsabilidad, conocimientos informáticos, excelente presentación personal, conocimiento y respeto de las normas, capacidad de actualizar los conocimientos, capaz de enfrentar cualquier tipo de labor, sentido de comunicación.
+
+',
       address: 'Manizales, Caldas Colombia.',
       social: [
         {name: 'facebook', url: 'https://www.facebook.com/eilyn.buitrago'},
@@ -31,7 +33,6 @@ class App extends Component {
       ],
       certificate: [
         {name: 'Ingles', institution: 'Colombo', startDate: 'Enero 2019', endDate: 'Diciembre 2019', description: 'Estudie Ingles durante un año, en el cual abquiri un nivel de B2' },
-        {name: 'Backend Developer', institution: 'Platzi', date: 'Jan 2016', description: 'Aenean commodo ligula eget dolor. Aenean massa.' }
       ],
       skills: [
         {name: 'HTML5', percentage: '95%'},
