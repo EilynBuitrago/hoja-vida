@@ -57,6 +57,7 @@ class App extends Component {
               bio={person.bio}
               address={person.address}
               social={person.social} />
+
           </div>
 
           <div className='content-wrapper'>
@@ -65,6 +66,21 @@ class App extends Component {
                 <Education education={person.education} />
                 <Certificate certificate={person.certificate} />
                 <Skills skills={person.skills} />
+                <p></p>
+                  <form>
+                      <h1>Contacto- mayor informacion</h1>
+                <p><label htmlFor="name">Nombre completo </label>
+                  <input id="name" type="text" /></p>
+
+                  <p><label htmlFor="mail">Correo electrónico </label>
+                  <input id="mail" type="email" /></p>
+
+                  <p><label htmlFor="phone">Teléfono móvil </label>
+                  <input id="phone" type="tel" placeholder="+57" /></p>
+
+                  <input type="submit" />
+                  </form>
+                  <p></p>
               </div>
           </div>
 
